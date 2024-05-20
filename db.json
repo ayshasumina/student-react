@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "regno": "SOAUSCS019",
+      "name": "Ervin Howell M",
+      "email": "Ervin@example.com",
+      "phone": "+91 9047859642",
+      "id": "38ef"
+    },
+    {
+      "regno": "SOAUSCS017",
+      "name": "Clementine Bauch",
+      "email": "Clementine@example.com",
+      "phone": "+91 9987452148",
+      "id": "27d3"
+    },
+    {
+      "regno": "SOAUSCS001",
+      "name": "Patricia Lebsack",
+      "email": "Patricia@example.com",
+      "phone": "+91 9785241648",
+      "id": "5b64"
+    },
+    {
+      "regno": "SOAUSCS005",
+      "name": "Chelsey Dietrich",
+      "email": "Chelsey@example.com",
+      "phone": "+91 6245781496",
+      "id": "a49b"
+    },
+    {
+      "regno": "SOAUSCS006",
+      "name": "Anitha",
+      "email": "anitha@example.com",
+      "phone": "+91 8845714596",
+      "id": "ec5f"
+    },
+    {
+      "regno": "SOAUSCS007",
+      "name": "Raman",
+      "email": "raman@example.com",
+      "phone": "+91 6254789641",
+      "id": "2d0f"
+    },
+    {
+      "regno": "SOAUSCS015",
+      "name": "SNEHA",
+      "email": "sindhusneha1977@gmail.com",
+      "phone": "+91 9875415623",
+      "id": "9a9f"
+    },
+    {
+      "id": "1f06",
+      "regno": "SOAUSCS004",
+      "name": "Swathi",
+      "email": "swathi@example.com",
+      "phone": "+91 7845694125"
+    }
+  ]
+}
